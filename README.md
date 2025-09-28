@@ -15,14 +15,14 @@ Previously, I worked in [building llms in c or sm shi]
 
 Currently, I'm working on 
 
-* [project name](https://url-to-github-page.com), a [description on project]
-* [project name](https://url-to-github-page.com), a [description on project]
+* [CTorch](https://url-to-github-page.com), a fully C-based emulation of the popular PyTorch Python library, specifically focused currently on tensor and neural network applications.
+* [NumC](https://url-to-github-page.com), a fully C-based emulation of the popular NumPy Python Library, focused on fast N-dimensional array operations
 
 Previously, I've worked on
 * [project name](https://url-to-github-page.com), a [description on project]
 * [project name](https://url-to-github-page.com), a [description on project]
 
-Welcome to my GitHub, and feel free to reach me on [name@gmail.com](name@email.com) or [twitter/linkedin/wtv](https://link_to_thing.com)
+Welcome to my GitHub, and feel free to reach me on [mr.sahilmehta@gmail.com](mr.sahil.mehta@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sahil-mehta-883b16261/)
  
 
 
