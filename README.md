@@ -3,7 +3,7 @@ Sahil Mehta
 </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=B3EBF2&center=true&width=435&lines=CS+%40+Carnegie+Mellon+University;Building+ML+Systems;Prev+%40+Stealth" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=500&color=A2BFFE&center=true&width=435&lines=CS+%40+Carnegie+Mellon+University;Building+ML+Systems;Prev+%40+Stealth" alt="Typing SVG" /></a>
 </p>
 
 
