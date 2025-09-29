@@ -22,7 +22,7 @@ Previously, I've worked on
 * [CalCorridors](https://github.com/sahilmehta-US/CalCorridors/tree/main), a study on the effects of wildfires on California Terrestrial Habitat Connectivity ([Publication](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1432570)).
 * [project name](https://url-to-github-page.com), a [description on project]
 
-Welcome to my GitHub, and feel free to reach me on [mr.sahilmehta@gmail.com](mr.sahil.mehta@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sahil-mehta-883b16261/)
+Welcome to my GitHub, and feel free to reach me on [mr.sahil.mehta@gmail.com](mr.sahil.mehta@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sahil-mehta-883b16261/)
  
 
 
