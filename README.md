@@ -20,7 +20,7 @@ Currently, I'm working on
 
 Previously, I've worked on
 * [CalCorridors](https://github.com/sahilmehta-US/CalCorridors/tree/main), a study on the effects of wildfires on California Terrestrial Habitat Connectivity under UC Davis ([Publication](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1432570)).
-* [Prunus-in-Bialowieza](https://github.com/sahilmehta-US/Prunus-in-Bialowieza), an examination of the impacts of introduction-stage invasive _Prunus Domestica_ expansion in Old Growth Białowie&#380a Forest under the University of Warsaw, Poland.
+* [Prunus-in-Bialowieza](https://github.com/sahilmehta-US/Prunus-in-Bialowieza), an examination of the impacts of introduction-stage invasive _Prunus Domestica_ expansion in Old Growth Białowieza Forest under the University of Warsaw, Poland.
 * [Cynamic_Integers](https://url-to-github-page.com), a fully C-based emulation of the dynamic-sized integers often featured in popular programming languages such as Python. This project introduces a new structure, dynamic_int, that prevents overflow errors while maintaining many of the useful functionalities provided in C.
 
 Welcome to my GitHub, and feel free to reach me on [mr.sahil.mehta@gmail.com](mr.sahil.mehta@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sahil-mehta-883b16261/)
